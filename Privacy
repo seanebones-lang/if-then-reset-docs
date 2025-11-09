@@ -1,0 +1,450 @@
+
+# Privacy Policy for If Then Reset
+
+**Last Updated: January 2025**  
+**Effective Date: January 2025**
+
+---
+
+## Introduction
+
+Welcome to If Then Reset ("we," "our," "us," or the "App"). We are committed to protecting your privacy and being transparent about our data practices.
+
+This Privacy Policy explains how If Then Reset handles your information. The short version: **We don't collect, store, transmit, or share any of your personal data. Everything stays on your device.**
+
+Please read this Privacy Policy carefully. By downloading and using If Then Reset, you agree to the practices described in this policy.
+
+---
+
+## Our Privacy Commitment
+
+**If Then Reset is designed with privacy as a core principle.**
+
+- ✅ No data collection
+- ✅ No servers or cloud storage
+- ✅ No user accounts
+- ✅ No analytics or tracking
+- ✅ No third-party data sharing
+- ✅ No advertising networks
+- ✅ All data stays on your device
+
+---
+
+## Information We Do NOT Collect
+
+### Personal Information
+We do not collect any personally identifiable information, including but not limited to:
+- Name
+- Email address
+- Phone number
+- Mailing address
+- Date of birth
+- Gender
+- Payment information
+- Photos or videos
+- Contacts
+
+### Health Information
+While you use the App to track feelings and mental wellness data:
+- This data is stored **only on your device**
+- We never access, transmit, or store this data on our servers
+- We have no access to your mood entries, reset history, or notes
+
+### Device Information
+We do not collect:
+- Device identifiers (UDID, advertising ID, etc.)
+- IP addresses
+- Device model or specifications
+- Operating system version
+- App usage statistics
+- Crash reports
+- Performance data
+
+### Location Information
+We do not collect, access, or track:
+- Precise location
+- Approximate location
+- Location history
+
+### Usage Analytics
+We do not collect:
+- How you use the App
+- Which features you access
+- Time spent in the App
+- Frequency of use
+- User behavior patterns
+
+---
+
+## Data Storage
+
+### Local Storage Only
+
+All data you create in If Then Reset is stored **exclusively on your device** using iOS's standard secure storage mechanisms:
+
+**What is stored locally:**
+- Mood/feeling entries (type, intensity, timestamp)
+- Reset technique selections
+- Notes you write
+- App settings and preferences
+- Your complete history
+
+**Storage technology:**
+- Data is stored using iOS Core Data or UserDefaults
+- Storage is encrypted by iOS at the system level
+- Data is sandboxed and isolated from other apps
+
+### No Cloud Storage
+
+If Then Reset does **not**:
+- Upload data to our servers (we don't have servers)
+- Use iCloud sync
+- Connect to any external databases
+- Transmit data over the internet
+
+### Device Backups
+
+Your If Then Reset data may be included in:
+- **iCloud Backups** - If you have iCloud Backup enabled in your iOS settings
+- **iTunes/Finder Backups** - If you back up your device to a computer
+
+These backups are controlled by Apple's backup system, not by If Then Reset. We do not have access to your backed-up data.
+
+**To exclude If Then Reset from iCloud backups:**
+1. Go to iOS Settings > [Your Name] > iCloud > Manage Storage > Backups
+2. Select your device > Show All Apps
+3. Toggle off If Then Reset
+
+---
+
+## Data You Control
+
+### Viewing Your Data
+
+All your data is visible within the App:
+- View all mood entries in the History tab
+- See notes you've written
+- Review timestamps and intensity levels
+
+### Deleting Your Data
+
+You have complete control to delete your data at any time:
+
+**Delete all data:**
+1. Open the App
+2. Go to **About & Settings**
+3. Scroll to **Data & Privacy**
+4. Tap **Erase All My Data**
+5. Confirm the action
+
+⚠️ **This action cannot be undone.** All reset history, notes, and data will be permanently deleted.
+
+**Delete the App:**
+
+Uninstalling If Then Reset from your device will also delete all locally stored data. There is no way to recover this data once deleted.
+
+### Data Portability
+
+Currently, If Then Reset does not include a data export feature. We may add this functionality in future updates. All data remains on your device and is not accessible to us.
+
+---
+
+## Third-Party Services
+
+### No Third-Party SDKs
+
+If Then Reset does **not** integrate any third-party services, SDKs, or frameworks that collect data, including:
+- No analytics services (Google Analytics, Firebase, Mixpanel, etc.)
+- No crash reporting tools (Crashlytics, Sentry, etc.)
+- No advertising networks
+- No social media SDKs
+- No cloud storage providers
+- No authentication services
+
+### External Links
+
+The App includes links to external resources:
+- **988 Suicide & Crisis Lifeline**: 988lifeline.org
+- **Find a Helpline**: findahelpline.com
+- **Email support**: Opens your default mail app
+
+When you tap these links, you leave the App. We are not responsible for the privacy practices of these external websites or services. Please review their privacy policies separately.
+
+---
+
+## App Permissions
+
+### Permissions We Request
+
+If Then Reset requires **minimal permissions** and only requests access when necessary:
+
+**No permissions are required** for the core functionality of the App.
+
+**Optional permissions:**
+- **None** - The App does not request camera, microphone, location, contacts, photos, or any other device permissions
+
+If future versions add features requiring permissions, we will:
+1. Clearly explain why the permission is needed
+2. Only request permission when you attempt to use that feature
+3. Update this Privacy Policy accordingly
+
+---
+
+## Children's Privacy
+
+### Age Restrictions
+
+If Then Reset is rated **12+** on the App Store due to mental health content.
+
+### COPPA Compliance
+
+The App complies with the Children's Online Privacy Protection Act (COPPA):
+- We do not knowingly collect personal information from children under 13
+- Since we don't collect any data from anyone, this includes children
+- Parents or guardians should supervise children's use of the App
+
+If you believe a child under 13 has used the App, there is no data to delete as nothing is collected or stored on our end.
+
+---
+
+## Security
+
+### Data Security Measures
+
+While we do not collect or store data on our servers, we take security seriously:
+
+**On-Device Security:**
+- Data is stored using iOS's secure storage mechanisms
+- iOS automatically encrypts data on devices with a passcode/biometric lock
+- App data is sandboxed and isolated from other apps
+- No data transmission means no risk of interception
+
+**App Security:**
+- Code is regularly reviewed for vulnerabilities
+- We follow Apple's security best practices
+- Regular app updates address any discovered issues
+
+**Your Responsibility:**
+- Use a strong device passcode/biometric lock
+- Keep your iOS version updated
+- Don't share your device with untrusted individuals
+- Be cautious of device backups on shared computers
+
+### No Data Breach Risk
+
+Because we don't collect, transmit, or store any user data on our servers:
+- There is no risk of a server-side data breach
+- We cannot be hacked for user data (we don't have any)
+- Your data is as secure as your device
+
+---
+
+## California Privacy Rights (CCPA)
+
+If you are a California resident, the California Consumer Privacy Act (CCPA) provides you with specific rights regarding your personal information.
+
+**Since If Then Reset does not collect any personal information:**
+- There is no personal information to access
+- There is no personal information to delete
+- There is no personal information to opt-out of selling (and we don't sell data)
+- There is no personal information for third parties to access
+
+If you have questions about your CCPA rights, please contact us at support@example.com.
+
+---
+
+## European Privacy Rights (GDPR)
+
+If you are located in the European Economic Area (EEA), the General Data Protection Regulation (GDPR) provides you with specific rights.
+
+**Since If Then Reset does not collect any personal information:**
+- No personal data is processed
+- No data controller or processor relationship exists
+- No data crosses borders
+- No consent is required (as no data is collected)
+
+### Your GDPR Rights
+
+While not applicable due to no data collection, if we collected data, you would have rights to:
+- Access your personal data
+- Rectify inaccurate personal data
+- Erase your personal data ("right to be forgotten")
+- Restrict processing
+- Data portability
+- Object to processing
+
+For GDPR inquiries, contact: support@example.com
+
+---
+
+## International Data Transfers
+
+**If Then Reset does not transfer any data internationally** because:
+- No data leaves your device
+- We do not operate servers in any country
+- No data is transmitted over the internet
+
+Your data remains on your device, in your physical location.
+
+---
+
+## Changes to This Privacy Policy
+
+### Policy Updates
+
+We may update this Privacy Policy from time to time to:
+- Reflect changes in the App's functionality
+- Comply with new legal requirements
+- Improve clarity and transparency
+
+**When we update this policy:**
+1. We will change the "Last Updated" date at the top
+2. We will notify you through the App (if the change is material)
+3. We may send an email (if we have your email from support communications)
+4. Continued use of the App after changes constitutes acceptance
+
+**We will never change our core privacy commitment:**  
+We will always maintain a privacy-first approach and will never collect, store, or share your personal wellness data without explicit consent and clear disclosure.
+
+### Viewing Policy Changes
+
+The current version of this Privacy Policy is always available:
+- In the App: **About & Settings** > **Privacy Policy**
+- Online: [INSERT PRIVACY POLICY URL]
+
+---
+
+## Medical Information Privacy (HIPAA)
+
+### HIPAA Does Not Apply
+
+The Health Insurance Portability and Accountability Act (HIPAA) applies to "covered entities" such as healthcare providers, health plans, and healthcare clearinghouses.
+
+**If Then Reset is NOT a covered entity** because:
+- We are not a healthcare provider
+- We do not provide medical services
+- We do not collect, store, or transmit protected health information (PHI)
+
+The App is a personal wellness tool, not a medical device or service.
+
+### Not a Medical Device
+
+If Then Reset:
+- Is not FDA-approved or regulated as a medical device
+- Does not diagnose, treat, cure, or prevent any disease
+- Is not intended to replace professional medical advice
+- Should not be used for medical emergencies
+
+---
+
+## Your Consent
+
+By using If Then Reset, you consent to this Privacy Policy.
+
+**If you do not agree with this policy, please:**
+- Do not download or use the App
+- Delete the App from your device
+- Contact us with questions before using
+
+---
+
+## Data Retention
+
+### How Long Data is Kept
+
+**On Your Device:**
+- Data is retained indefinitely until you delete it
+- You can delete individual entries or all data at any time
+- Uninstalling the App deletes all local data
+
+**On Our Servers:**
+- Not applicable - we don't have servers or store your data
+
+**Support Communications:**
+- If you email us for support, we retain that email correspondence for 2 years
+- Support emails may contain your email address and any information you choose to share
+- You can request deletion of support emails at any time
+
+---
+
+## Legal Basis for Processing (GDPR)
+
+Since we do not collect personal data, no legal basis for processing is required.
+
+If we did collect data, potential legal bases would include:
+- Consent
+- Contract performance
+- Legal obligation
+- Legitimate interests
+
+Currently: **Not applicable - no data collection**
+
+---
+
+## Contact Us
+
+If you have questions, concerns, or requests regarding this Privacy Policy or our privacy practices:
+
+**Email:** support@example.com
+
+**Subject Line:** Privacy Policy Inquiry
+
+**Response Time:** We aim to respond within 48 hours during business days
+
+**Mailing Address:**  
+[INSERT COMPANY NAME]  
+[INSERT STREET ADDRESS]  
+[INSERT CITY, STATE, ZIP]  
+[INSERT COUNTRY]
+
+---
+
+## Transparency Report
+
+### Data Requests
+
+To date, we have received:
+- **0 government data requests** (we have no data to provide)
+- **0 law enforcement requests** (we have no data to provide)
+- **0 third-party data requests** (we have no data to provide)
+
+We will update this section annually to maintain transparency.
+
+---
+
+## Summary
+
+**The Bottom Line:**
+
+If Then Reset is built with privacy at its core. Your mental health data is deeply personal, and we believe you should have complete control over it.
+
+- ✅ All data stays on your device
+- ✅ We don't know who you are
+- ✅ We can't see what you track
+- ✅ We don't use analytics or tracking
+- ✅ No ads, no third parties, no data sharing
+- ✅ You own your data completely
+
+Your trust is important to us. If you have any questions about how we handle (or rather, don't handle) your data, please reach out.
+
+---
+
+## Acknowledgments
+
+This Privacy Policy is designed to be transparent, easy to understand, and compliant with:
+- California Consumer Privacy Act (CCPA)
+- General Data Protection Regulation (GDPR)
+- Children's Online Privacy Protection Act (COPPA)
+- Apple App Store Privacy Requirements
+- FTC Privacy Guidelines
+
+---
+
+**Thank you for trusting If Then Reset with your mental wellness journey.**
+
+---
+
+*Privacy Policy Version: 1.0*  
+*Effective Date: January 2025*  
+*Last Updated: January 2025*
+
